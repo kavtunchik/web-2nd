@@ -1,0 +1,11 @@
+by.bsuir.labwork_2
+by.bsuir.labwork_2.dao
+by.bsuir.labwork_2.dao.impl
+by.bsuir.labwork_2.entity
+by.bsuir.labwork_2.entity.criteria
+by.bsuir.labwork_2.factory
+by.bsuir.labwork_2.factory.impl
+by.bsuir.labwork_2.service
+by.bsuir.labwork_2.service.impl
+by.bsuir.labwork_2.service.validation
+by.bsuir.labwork_2.util
